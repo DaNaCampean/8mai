@@ -45,6 +45,8 @@ public class HomePageTest extends BaseTests {
         System.out.println("PASSED - landing page EMAG opens correctly");
     }
 
+    //test
+
     @Test
     public void searchAspiratoare(){
         //search for aspiratoare
